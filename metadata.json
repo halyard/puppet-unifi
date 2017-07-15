@@ -1,0 +1,15 @@
+{
+  "name": "halyard-unifi",
+  "version": "0.0.1",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure Unifi control panel",
+  "source": "https://github.com/halyard/puppet-unifi",
+  "project_page": "https://github.com/halyard/puppet-unifi",
+  "issues_url": "https://github.com/halyard/puppet-unifi/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+  ]
+}
