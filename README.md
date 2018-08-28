@@ -2,7 +2,7 @@ puppet-unifi
 ==============
 
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
-[![Build Status](https://img.shields.io/circleci/project/halyard/puppet-unifi/master.svg)](https://circleci.com/gh/halyard/puppet-unifi)
+[![Build Status](https://img.shields.io/travis/com/halyard/puppet-unifi.svg)](https://travis-ci.com/halyard/puppet-unifi)
 
 Set up the Unifi control panel
 
